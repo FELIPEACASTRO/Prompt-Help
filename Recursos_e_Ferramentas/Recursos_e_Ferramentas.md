@@ -7,7 +7,7 @@ Este catálogo consolida mais de **300 referências** de prompts, ferramentas e 
 | Recurso | Descrição Detalhada (O que você encontrará) | Tipo | URL |
 | :--- | :--- | :--- | :--- |
 | **God of Prompt - Complete AI Bundle** | A maior coleção comercial do mundo, com mais de 30.000 prompts organizados em todas as categorias profissionais (Marketing, Vendas, Programação, etc.). | Pago | `https://godofprompt.ai` |
-| **xixu-me/prompt-library** | Biblioteca abrangente de código aberto (open-source) com estrutura profissional dividida em pastas como `development/` (desenvolvimento), `writing/` (escrita), `analysis/` (análise) e `business/` (negócios). | Gratuito (GitHub) | `https://github.com/xixu-me/prompt-library` |
+| **xixu-me/prompt-library** | **[REMOVIDO - LINK INATIVO]** Biblioteca abrangente de código aberto (open-source) com estrutura profissional dividida em pastas como `development/` (desenvolvimento), `writing/` (escrita), `analysis/` (análise) e `business/` (negócios). | Gratuito (GitHub) | `https://github.com/xixu-me/prompt-library` |
 | **f/awesome-chatgpt-prompts** | O repositório GitHub mais popular (com mais de 170 mil estrelas). Contém prompts icônicos de *role-playing* (como atuar como um Terminal Linux, Console JS, etc.). | Gratuito (GitHub) | `https://github.com/f/awesome-chatgpt-prompts` |
 | **DocsBot Mega Prompt Database** | Um banco de dados estruturado em formato JSON de MEGA prompts, com metadados completos para uso avançado e integração. | Gratuito | `https://docsbot.ai/mega-prompt-database` |
 | **Prompt Library with 300+ Prompts** | Uma biblioteca colaborativa com mais de 300 prompts de engenharia organizados para fácil cópia e uso. | Gratuito (Reddit) | `https://reddit.com/r/PromptEngineering` |
