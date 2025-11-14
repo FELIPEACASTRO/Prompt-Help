@@ -102,8 +102,6 @@ Este catálogo consolida mais de **300 referências** de prompts, ferramentas e 
 | :--- | :--- | :--- |
 | **Hugging Face - Datasets e Spaces** | Coleção de Datasets de Prompts (foco em segurança) e Ferramentas interativas (Spaces) para otimização e avaliação de prompts. | [Ver Detalhes](Recursos_e_Ferramentas/HuggingFace_Recursos.md) |
 
-## 6. Guias Acadêmicos e de Pesquisa
-
 | Recurso | Descrição Detalhada (O que você encontrará) | URL |
 | :--- | :--- | :--- |
 | **PromptSource (BigScience)** | IDE integrado e repositório colaborativo com mais de 2.000 prompts para 170 conjuntos de dados (datasets) NLP. | `https://github.com/bigscience-workshop/promptsource` |

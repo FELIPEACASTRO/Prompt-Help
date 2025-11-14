@@ -1,12 +1,12 @@
-# 🤖 Compêndio Universal de Prompts para Inteligência Artificial
+# Prompt-Help: O Compêndio Universal de Prompts para IA
 
-**Coleções, Guias Oficiais, Ferramentas e Prompts Prontos para Automação, Análise de Dados e Engenharia de Prompts.**
+**Coleções, Guias Oficiais, Ferramentas e Prompts Prontos para Inteligência Artificial, Automação, Análise de Dados e Engenharia de Prompts.**
 
 ---
 
 ## 🇧🇷 Guia de Navegação (Português)
 
-Este repositório é um **Compêndio Universal de Prompts** e recursos de Prompt Engineering, resultado de uma análise rigorosa de mais de 200 referências. O objetivo é fornecer uma fonte única e organizada para maximizar a eficácia no uso de Modelos de Linguagem Grande (LLMs) em contextos profissionais e técnicos.
+Este repositório é um **Compêndio Universal de Prompts** e recursos de Engenharia de Prompt, resultado de uma análise rigorosa de mais de 300 referências e da extração de milhares de prompts de código aberto. O objetivo é fornecer uma fonte única e organizada para maximizar a eficácia no uso de Modelos de Linguagem Grande (LLMs) em contextos profissionais e técnicos.
 
 ### 1. Estrutura do Repositório
 
@@ -26,15 +26,15 @@ Para encontrar o que você precisa, siga a estrutura de pastas dentro de `Prompt
 | `Prompts/Automação/` | Prompts focados em automatizar tarefas repetitivas, como geração de e-mails, scripts de automação e otimização de fluxos de trabalho. | Criar um script Python para limpeza de dados, gerar um e-mail de follow-up. |
 | `Prompts/Análise_de_Dados/` | Prompts para extração de insights, limpeza de dados, análise estatística e visualização de resultados (foco em CSV e relatórios). | Resumir um conjunto de dados, identificar anomalias, gerar código Pandas. |
 | `Prompts/Engenharia_de_Prompts/` | **Meta-Prompts** para otimizar, testar e refinar a qualidade dos seus próprios prompts (System Prompts, Chain-of-Thought, Teste de Robustez). | Criar uma persona de IA, aplicar técnicas avançadas de prompt, analisar falhas de resposta. |
+| `Prompts/Colecoes_Open_Source/` | **Coleções de prompts de código aberto** extraídos de repositórios GitHub populares, traduzidos para Português do Brasil. | Encontrar prompts de *role-playing*, agentes de software e desenvolvimento. |
+| `Prompts/Guias_Oficiais/` | Prompts de **melhores práticas e exemplos** extraídos da documentação oficial da OpenAI e Anthropic (Claude). | Aprender a usar as técnicas recomendadas pelos criadores dos modelos. |
 
 Para encontrar fontes de estudo e ferramentas, explore a pasta `Recursos_e_Ferramentas/`:
 
-| Arquivo/Subpasta | Conteúdo |
+| Arquivo | Conteúdo |
 | :--- | :--- |
-| `Recursos_e_Ferramentas.md` | **Índice Mestre** de mais de 200 recursos, incluindo Mega Libraries, Guias Oficiais (OpenAI, Claude, Google, Microsoft), Repositórios GitHub e Marketplaces. |
-| `Recursos_e_Ferramentas/GitHub/` | Repositórios GitHub notáveis para Prompt Engineering e desenvolvimento. |
-| `Recursos_e_Ferramentas/Oficiais/` | Guias e documentações oficiais das principais plataformas de IA. |
-| `Recursos_e_Ferramentas/Marketplaces/` | Plataformas gratuitas e pagas para compra e venda de prompts. |
+| `Recursos_e_Ferramentas.md` | **Índice Mestre** de mais de 300 recursos, incluindo Mega Libraries, Guias Oficiais, Repositórios GitHub e Marketplaces. |
+| `HuggingFace_Recursos.md` | **Recursos do Hugging Face**, incluindo Datasets de Prompts (foco em segurança) e Ferramentas interativas (Spaces). |
 
 ### 3. Conteúdo Principal
 
@@ -49,7 +49,7 @@ O arquivo **`Recursos_e_Ferramentas.md`** é o ponto de partida para quem busca 
 
 ## 🇺🇸 Navigation Guide (English)
 
-This repository is a **Universal Compendium of Prompts** and Prompt Engineering resources, resulting from a rigorous analysis of over 200 references. The goal is to provide a single, organized source to maximize the effectiveness of using Large Language Models (LLMs) in professional and technical contexts.
+This repository is a **Universal Compendium of Prompts** and Prompt Engineering resources, resulting from a rigorous analysis of over 300 references and the extraction of thousands of open-source prompts. The goal is to provide a single, organized source to maximize the effectiveness of using Large Language Models (LLMs) in professional and technical contexts.
 
 ### 1. Repository Structure
 
@@ -69,15 +69,15 @@ To find what you need, follow the folder structure within `Prompts/`:
 | `Prompts/Automação/` | Prompts focused on automating repetitive tasks, such as email generation, automation scripts, and workflow optimization. | Creating a Python script for data cleaning, generating a follow-up email. |
 | `Prompts/Análise_de_Dados/` | Prompts for extracting insights, data cleaning, statistical analysis, and result visualization (focus on CSV and reports). | Summarizing a dataset, identifying anomalies, generating Pandas code. |
 | `Prompts/Engenharia_de_Prompts/` | **Meta-Prompts** to optimize, test, and refine the quality of your own prompts (System Prompts, Chain-of-Thought, Robustness Testing). | Creating an AI persona, applying advanced prompting techniques, analyzing response failures. |
+| `Prompts/Colecoes_Open_Source/` | **Collections of open-source prompts** extracted from popular GitHub repositories, translated into Brazilian Portuguese. | Finding prompts for role-playing, software agents, and development. |
+| `Prompts/Guias_Oficiais/` | **Best practice and example prompts** extracted from the official documentation of OpenAI and Anthropic (Claude). | Learning to use the techniques recommended by the model creators. |
 
 To find study sources and tools, explore the `Recursos_e_Ferramentas/` folder:
 
-| File/Subfolder | Content |
+| File | Content |
 | :--- | :--- |
-| `Recursos_e_Ferramentas.md` | **Master Index** of over 200 resources, including Mega Libraries, Official Guides (OpenAI, Claude, Google, Microsoft), GitHub Repositories, and Marketplaces. |
-| `Recursos_e_Ferramentas/GitHub/` | Notable GitHub repositories for Prompt Engineering and development. |
-| `Recursos_e_Ferramentas/Oficiais/` | Official guides and documentation from the main AI platforms. |
-| `Recursos_e_Ferramentas/Marketplaces/` | Free and paid platforms for buying and selling prompts. |
+| `Recursos_e_Ferramentas.md` | **Master Index** of over 300 resources, including Mega Libraries, Official Guides, GitHub Repositories, and Marketplaces. |
+| `HuggingFace_Recursos.md` | **Hugging Face Resources**, including Prompt Datasets (focus on security) and interactive Tools (Spaces). |
 
 ### 3. Main Content
 
