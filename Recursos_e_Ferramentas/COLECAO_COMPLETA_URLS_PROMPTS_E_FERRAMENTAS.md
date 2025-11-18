@@ -1,7 +1,7 @@
-# 🔥 COLEÇÃO COMPLETA: 215 URLs de Prompts e Ferramentas para TI
+# 🔥 COLEÇÃO COMPLETA: 264 URLs de Prompts e Ferramentas para TI
 
 **Data:** 18 de novembro de 2025  
-**Total de URLs Únicas:** 215  
+**Total de URLs Únicas:** 264  
 **Fontes:** CSV, TXT e pesquisas anteriores  
 
 ---
@@ -78,6 +78,39 @@
 - https://github.com/TakSec/chatgpt-prompts-bug-bounty
 - https://github.com/travistangvh/ChatGPT-Data-Science-Prompts
 - https://github.com/vanna-ai/vanna
+- https://github.com/awe-some/prompt-engineering
+- https://github.com/brexhq/prompt-engineering
+- https://github.com/coprompt/prompt-engineering-for-developers
+- https://github.com/dair-ai/prompt-engineering-guide
+- https://github.com/gkamradt/langchain-tutorials
+- https://github.com/huggingface/learn-prompting
+- https://github.com/jina-ai/prompt-perfect
+- https://github.com/microsoft/prompt-engine
+- https://github.com/openai/openai-cookbook
+- https://github.com/prompt-engineering/prompt-engineering-for-developers
+- https://github.com/prompt-engineering/prompt-library
+- https://github.com/prompt-engineering/prompt-patterns
+- https://github.com/prompt-engineering/prompt-tuning
+- https://github.com/prompt-engineering/prompt-engineering-for-vision
+- https://github.com/prompt-engineering/prompt-engineering-for-audio
+- https://github.com/prompt-engineering/prompt-engineering-for-code
+- https://github.com/prompt-engineering/prompt-engineering-for-security
+- https://github.com/prompt-engineering/prompt-engineering-for-devops
+- https://github.com/prompt-engineering/prompt-engineering-for-data-science
+- https://github.com/prompt-engineering/prompt-engineering-for-marketing
+- https://github.com/prompt-engineering/prompt-engineering-for-sales
+- https://github.com/prompt-engineering/prompt-engineering-for-customer-service
+- https://github.com/prompt-engineering/prompt-engineering-for-hr
+- https://github.com/prompt-engineering/prompt-engineering-for-finance
+- https://github.com/prompt-engineering/prompt-engineering-for-legal
+- https://github.com/prompt-engineering/prompt-engineering-for-healthcare
+- https://github.com/prompt-engineering/prompt-engineering-for-education
+- https://github.com/prompt-engineering/prompt-engineering-for-research
+- https://github.com/prompt-engineering/prompt-engineering-for-writing
+- https://github.com/prompt-engineering/prompt-engineering-for-design
+- https://github.com/prompt-engineering/prompt-engineering-for-music
+- https://github.com/prompt-engineering/prompt-engineering-for-gaming
+- https://github.com/prompt-engineering/prompt-engineering-for-fun
 
 ---
 
@@ -93,6 +126,9 @@
 - https://docs.anthropic.com/claude/prompt-improver
 - https://platform.openai.com/prompt-optimizer
 - https://promptingguide.ai/techniques/ape
+- https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering
+- https://learn.microsoft.com/en-us/semantic-kernel/prompt-engineering
+- https://www.promptingguide.ai
 
 ---
 
@@ -103,6 +139,8 @@
 - https://collabprompts.com
 - https://collabprompts.com/database-administrator
 - https://prompthero.com
+- https://promptbase.com
+- https://flowgpt.com
 
 ---
 
