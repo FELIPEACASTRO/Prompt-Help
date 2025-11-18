@@ -1,7 +1,7 @@
-# 🔥 COLEÇÃO COMPLETA: 127 URLs de Prompts e Ferramentas para TI
+# 🔥 COLEÇÃO COMPLETA: 215 URLs de Prompts e Ferramentas para TI
 
 **Data:** 18 de novembro de 2025  
-**Total de URLs Únicas:** 127  
+**Total de URLs Únicas:** 215  
 **Fontes:** CSV, TXT e pesquisas anteriores  
 
 ---
@@ -24,6 +24,7 @@
 
 - https://agenta.ai
 - https://azure.microsoft.com/prompt-flow
+- https://chat2db.ai
 - https://databutton.com
 - https://dspy.ai
 - https://flowiseai.com
@@ -69,14 +70,26 @@
 
 - https://github.com/confident-ai/deepeval
 - https://github.com/mleoking/PromptAppGPT
+- https://github.com/f/awesome-chatgpt-prompts
+- https://github.com/dair-ai/Prompt-Engineering-Guide
+- https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+- https://github.com/Shubhamsaboo/awesome-llm-apps
+- https://github.com/schoolofdevops/chatgpt-prompts-devopsmastery
+- https://github.com/TakSec/chatgpt-prompts-bug-bounty
+- https://github.com/travistangvh/ChatGPT-Data-Science-Prompts
+- https://github.com/vanna-ai/vanna
 
 ---
 
 ## 3. Documentações Oficiais
 
+- https://academy.openai.com/prompt-packs
 - https://blog.langchain.com/promptim
-- https://chrome.google.com/webstore
+- https://chrome.google.com/webstore/detail/promptperfect
 - https://cloud.google.com/vertex-ai/docs/prompt-optimizer
+- https://cloud.google.com/vertex-ai/docs/generative-ai/prompt-samples
+- https://code.visualstudio.com/docs/copilot/prompt-files
+- https://developers.googleblog.com/vertex-ai-prompt-optimizer
 - https://docs.anthropic.com/claude/prompt-improver
 - https://platform.openai.com/prompt-optimizer
 - https://promptingguide.ai/techniques/ape
@@ -85,20 +98,27 @@
 
 ## 4. Marketplaces e Plataformas
 
+- https://aiprm.com/prompts/database-administration
+- https://clickup.com/ai/prompts/database-design
+- https://collabprompts.com
+- https://collabprompts.com/database-administrator
 - https://prompthero.com
 
 ---
 
 ## 5. Recursos Educacionais e Blogs
 
-- https://www.promptingguide.ai
-- https://natnew.github.io/Awesome-Prompt-Engineering
-- https://firefly.ai/blog/prompt-engineering
-- https://altersquare.io/5-ai-prompts-every-developer-should-master-copy-paste-ready/
 - https://altersquare.io/blog/5-ai-prompts-every-developer-should-master
+- https://aws.amazon.com/startups/learn/prompt-library
+- https://capgemini.github.io/development/prompt-driven-development
+- https://dev.to/jaideepparashar/the-5-github-repositories-every-prompt-engineer-should-bookmark
+- https://firefly.ai/blog/prompt-engineering
+- https://natnew.github.io/Awesome-Prompt-Engineering
+- https://www.promptingguide.ai
+- https://www.promptingguide.ai/techniques/ape
+- https://altersquare.io/5-ai-prompts-every-developer-should-master-copy-paste-ready/
 - https://blog.lewagon.com/skills/effective-ai-prompts-for-a-software-developer/
 - https://capgemini.github.io/ai/prompt-driven-development/
-- https://capgemini.github.io/development/prompt-driven-development
 - https://cloud.google.com/discover/what-is-prompt-engineering
 - https://cloudsecurityalliance.org/blog/2025/01/15/unlocking-the-power-of-ai-an-intro-to-prompt-engineering
 - https://dev.to/aws-heroes/prompt-engineering-for-devops-5-must-have-prompts-for-aws-devops-engineers-454i
