@@ -87,3 +87,8 @@ The **`Recursos_e_Ferramentas.md`** file is the starting point for those seeking
 *   **Official Guides:** Production documentation from OpenAI, Anthropic, Google, and Microsoft.
 *   **Open-Source Tools:** Frameworks like LangChain, Agenta, and ChainForge.
 *   **Technical Documentation:** Specialized prompts for *Technical Writers* and executive presentations.
+
+
+## 🔥 NOVO: Relatório Exaustivo de 170+ Ferramentas de IA
+
+- [**Acesse o relatório completo aqui**](./01_Agentes_Autonomos/RELATORIO_EXAUSTIVO_170_FERRAMENTAS.md)
